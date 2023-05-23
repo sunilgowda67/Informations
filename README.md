@@ -73,3 +73,78 @@
 --------------------
 1. STORYD : It creates AI data presentations leaders love, in seconds. Beta goes live in a few weeks.
 https://storyd.ai
+
+
+How to use an API (Full Course / Tutorial)
+https://lnkd.in/dGuS8Urq
+
+Postman Beginner’s Course - API Testing
+https://lnkd.in/df_GyWUY
+
+REST API concepts and examples
+https://lnkd.in/dh-uQtVJ
+
+API Testing Tutorial for Beginners
+https://lnkd.in/djQ-wEFs
+
+❤️Unlimited Resources❤️
+https://lnkd.in/dfCkC582
+
+Learn REST API Design
+https://lnkd.in/dujiNqqf
+
+API for beginners
+https://lnkd.in/dJMUCZk4
+
+REST API Tutorial
+https://lnkd.in/dt77rY2Q
+
+Build a RESTful API with Node.js and Express.js
+https://lnkd.in/dujiNqqf
+
+Surprise link 🖇️
+https://lnkd.in/deGVj8ii
+
+Building a RESTful API with ASP.NET Core 3.1
+https://lnkd.in/d43vcC8S
+
+RESTful Web Services Tutorial
+https://lnkd.in/d-2-T6BY
+
+
+
+➊ Assistant on any website
+―Monica.im
+
+➋ Presentation
+―beautiful.ai
+
+➌ AI Meeting Summarizer
+―tldv.io
+
+➍ Coding AI Assistant
+―codeium.com
+
+➎ AI Website Builder
+―10web.io
+
+❤️Unlimited Resources❤️
+https://lnkd.in/dfCkC582
+
+➏ Content
+―cohesive.so
+
+➐ Cold emailing
+―instantly.ai
+
+➑ Recording
+―otter.ai
+
+➒ Excel Sheet
+―sheetplus.ai
+
+Surprise link 🖇️
+https://lnkd.in/deGVj8ii
+
+➓ Images
+― stockimg.ai
